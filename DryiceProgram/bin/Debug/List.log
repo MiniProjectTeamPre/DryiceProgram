@@ -1,0 +1,20 @@
+STM32 ST-LINK CLI v3.6.0.0
+STM32 ST-LINK Command Line Interface
+
+--- Available ST-LINK Probes List ---
+
+ST-LINK Probe 0:
+     SN: 280019000B0000334351534E
+     FW: V2J39S7
+
+ST-LINK Probe 1:
+     SN: Old ST-LINK firmware/ST-LINK already used
+     FW: V2J37S7
+
+ST-LINK Probe 2:
+     SN: 42000600030000415737534E
+     FW: V2J39S7
+
+----------------------------------
+
+

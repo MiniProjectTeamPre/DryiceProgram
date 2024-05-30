@@ -1,0 +1,18 @@
+[Path Hex Main]
+D:\svn\2020_SST_Ultra_Dry_Ice_Automation\1.Customer Documents\7.Firmware\design.hex
+[Name ST-Link]
+280019000B0000334351534E
+[Hex & PathHex]
+Hex
+[Path Hex]
+D:\svn\2020_SST_Ultra_Dry_Ice_Automation\1.Customer Documents\7.Firmware
+[Debug]
+True
+[Result Firmware]
+True
+[Result Verify]
+True
+[Result Program Complete]
+True
+[Result Check Sum]
+True

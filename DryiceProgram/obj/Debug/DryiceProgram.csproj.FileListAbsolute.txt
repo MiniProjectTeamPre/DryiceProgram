@@ -1,0 +1,16 @@
+D:\ServerSvn\Projects C#\mini_projeck_template\DryiceProgram\DryiceProgram\bin\Debug\DryiceProgram.exe.config
+D:\ServerSvn\Projects C#\mini_projeck_template\DryiceProgram\DryiceProgram\bin\Debug\DryiceProgram.exe
+D:\ServerSvn\Projects C#\mini_projeck_template\DryiceProgram\DryiceProgram\bin\Debug\DryiceProgram.pdb
+D:\ServerSvn\Projects C#\mini_projeck_template\DryiceProgram\DryiceProgram\obj\Debug\DryiceProgram.csproj.AssemblyReference.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\DryiceProgram\DryiceProgram\obj\Debug\DryiceProgram.csproj.SuggestedBindingRedirects.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\DryiceProgram\DryiceProgram\obj\Debug\DryiceProgram.FormStart.resources
+D:\ServerSvn\Projects C#\mini_projeck_template\DryiceProgram\DryiceProgram\obj\Debug\DryiceProgram.Properties.Resources.resources
+D:\ServerSvn\Projects C#\mini_projeck_template\DryiceProgram\DryiceProgram\obj\Debug\DryiceProgram.csproj.GenerateResource.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\DryiceProgram\DryiceProgram\obj\Debug\DryiceProgram.csproj.CoreCompileInputs.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\DryiceProgram\DryiceProgram\obj\Debug\DryiceProgram.exe
+D:\ServerSvn\Projects C#\mini_projeck_template\DryiceProgram\DryiceProgram\obj\Debug\DryiceProgram.pdb
+D:\ServerSvn\Projects C#\mini_projeck_template\DryiceProgram\DryiceProgram\obj\Debug\DryiceProgram.FormUpload.resources
+D:\ServerSvn\Projects C#\mini_projeck_template\DryiceProgram\DryiceProgram\obj\Debug\DryiceProgram.csproj.CopyComplete
+D:\ServerSvn\Projects C#\mini_projeck_template\DryiceProgram\DryiceProgram\obj\Debug\DryiceProgram.MiniForm.FormSelectStLink.resources
+D:\ServerSvn\Projects C#\mini_projeck_template\DryiceProgram\DryiceProgram\obj\Debug\DryiceProgram.MiniForm.FormConfig.resources
+D:\ServerSvn\Projects C#\mini_projeck_template\DryiceProgram\DryiceProgram\obj\Debug\DryiceProgram.MiniForm.FormWaitProcess.resources
